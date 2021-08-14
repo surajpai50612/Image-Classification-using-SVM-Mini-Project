@@ -1,5 +1,5 @@
-# Mini-Project
-Image Classification using Support Vector Machine(SVM) algorithm
+# Image Classification using SVM
+ Classifies the images using Support Vector Machine(SVM) algorithm.
 
 Images Dataset link: 
 
